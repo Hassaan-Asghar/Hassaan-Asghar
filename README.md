@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Skills & Tools
-**Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript 
+**Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript  
 **Frameworks & Tools:** OpenCV, TensorFlow, MATLAB, Jupyter Notebook, VS Code, Git/GitHub  
 **Databases:** MySQL  
 **Areas of Interest:** Artificial Intelligence, Machine Learning, Computer Vision, Web Development  
