@@ -24,7 +24,7 @@
 - **StitchHub – Tailor Management System** (Efficient tailoring business management)  
 - **Medlink – Pharmacy Management System** (SQL-based medical store management)  
 - **Smart City Collaborative Dashboard** (Real-time issue reporting)  
-- Explore more in my [repositories](https://github.com/Hassaan-Asghar?tab=repositories).  
+- Explore more in my [repositories](https://github.com/Hassaan-Asghar?tab=repositories)  
 
 ---
 
