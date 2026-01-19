@@ -6,24 +6,31 @@
 ---
 
 ## 🚀 About Me
-- Enthusiastic and motivated Computer Science student with a strong interest in **AI, software development, and modern web technologies**.  
+- Enthusiastic and motivated Computer Science student with a strong interest in **AI, software development, and web technologies**.  
 - Skilled in designing and developing academic and personal projects with practical applications.  
 - Dedicated to continuous learning, teamwork, and applying knowledge to build **innovative and impactful solutions**.  
 
 ---
 
 ## 🛠️ Skills & Tools
-**Languages:** C, C++, Java, Python, SQL, HTML, CSS, JavaScript  
-**Frameworks & Tools:** OpenCV, TensorFlow, MATLAB, Jupyter Notebook, VS Code, Git/GitHub  
+**Programming Languages:** C, C++, Java, Python, SQL, JavaScript  
+**Frontend Development:** HTML5, CSS3, JavaScript, React.js, Vite  
+**Backend Development:** FastAPI, REST APIs  
+**AI / Machine Learning:** NumPy, Pandas, TensorFlow, OpenCV, MATLAB  
+**Parallel & High-Performance Computing:** OpenMP, Parallel Image Processing  
 **Databases:** MySQL  
-**Areas of Interest:** Artificial Intelligence, Machine Learning, Computer Vision, Web Development  
+**Developer Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
+**Deployment & DevOps:** Vercel, Railway, Render  
+**Areas of Interest:** Artificial Intelligence, Machine Learning, Computer Vision, Web Development
+
 
 ---
 
 ## 📂 Featured Projects
 - **StitchHub – Tailor Management System** (Efficient tailoring business management)  
 - **Medlink – Pharmacy Management System** (SQL-based medical store management)  
-- **Smart City Collaborative Dashboard** (Real-time issue reporting)  
+- **Smart City Collaborative Dashboard** (Real-time issue reporting)
+- **Parallel Vision - Parallel Image Processing** (A fullstack parallel Brain tumor segmentation project)
 - Explore more in my [repositories](https://github.com/Hassaan-Asghar?tab=repositories)  
 
 ---
@@ -31,7 +38,7 @@
 ## 🌱 Currently Learning
 - Machine Learning  
 - Computer Vision 
-- Modern Web Development  
+- Web Development  
 
 ---
 
