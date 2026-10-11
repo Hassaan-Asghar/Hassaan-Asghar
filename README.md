@@ -73,7 +73,7 @@ Open to internships and entry-level AI/ML or software engineering roles.
 | Project | What it does | Stack |
 |---|---|---|
 | [**TrueTone**](https://github.com/MISBAH-09/TrueTone-FYP) | Predicts skin tone, type and conditions from a face photo with three EfficientNet models, then recommends skincare products. | Django REST, React, PyTorch, EfficientNet, MediaPipe |
-| [**Nexera**](hhttps://github.com/Hassaan-Asghar/Nexera) | Answers questions from lecture slides with citations, generates MCQs, flashcards and cram sheets, and replies "not found" instead of guessing. | Next.js, FastAPI, ChromaDB, Gemini, Groq |
+| [**Nexera**](https://github.com/Hassaan-Asghar/Nexera) | Answers questions from lecture slides with citations, generates MCQs, flashcards and cram sheets, and replies "not found" instead of guessing. | Next.js, FastAPI, ChromaDB, Gemini, Groq |
 | [**Sonexa**](https://github.com/Hassaan-Asghar/Sonexa) | Separates songs into vocals, drums, bass and other stems with Demucs, with a multitrack mixer and live progress. | Next.js, FastAPI, PyTorch, MongoDB, Docker |
 | [**PredictaPK**](https://github.com/Hassaan-Asghar/PredictaPK) | Predicts car, bike and house prices in Pakistan (R² 0.87-0.92) and explains each estimate with SHAP. | Next.js, FastAPI, Scikit-learn, SHAP |
 | [**ParallelVision**](https://github.com/Hassaan-Asghar/Parallel-Image-Processing-Project) | Image processing pipeline with a dashboard comparing sequential and multithreaded runs (3-4x faster on batches). | React, FastAPI, OpenCV, ThreadPoolExecutor |
