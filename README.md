@@ -82,7 +82,7 @@ Open to internships and entry-level AI/ML or software engineering roles.
 | [**SceneOn**](https://github.com/Hassaan-Asghar/Scene-on) | Real-time group planner for trips and events with live polls, expense splitting, push notifications and Gemini-generated itineraries. | Next.js, MongoDB, Pusher, OneSignal, Gemini |
 
 
-More projects, including a Smart City dashboard, a pharmacy management system, a Java tailor shop manager and a movie sentiment analyzer, are in my [repositories](https://github.com/Hassaan-Asghar?tab=repositories) and on my [portfolio](https://hassaan-asghar-portfolio.vercel.app/).
+More projects, including a Smart City dashboard, a pharmacy management system, and a Java tailor shop manager are in my [repositories](https://github.com/Hassaan-Asghar?tab=repositories) and on my [portfolio](https://hassaan-asghar-portfolio.vercel.app/).
 
 ---
 
